@@ -1,0 +1,13 @@
+{
+  "title": "Addon Ejemplo",
+  "name": "ejemplo",
+  "version": "0.0.1",
+  "description": "Addon de ejemplo para tutorial de firefoxmania",
+  "main": "index.js",
+  "author": "Pochy",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
